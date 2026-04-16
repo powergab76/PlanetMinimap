@@ -1,11 +1,13 @@
  {
  "pztest": {
+ "name": "pztest.png",
  "x": -1610,
  "y": 877,
  "width": 15,
  "height": 15
  },
  "brtest": {
+ "name": brtest.png
  "x": -1758,
  "y": 844,
  "width": 11,

@@ -1,13 +1,19 @@
-{ "comment": "default public file",
+{
+  "comment": "default public file",
 
-"pztest": {
-  "name": "pztest.png",
-  "x": -1618,  "y": 872,
-  "width": 15, "height": 15
-}
+  "pztest": {
+    "name": "pztest.png",
+    "x": -1618,
+    "y": 872,
+    "width": 15,
+    "height": 15
+  },
 
-,"brtest": {
-  "name": "brtest.png",
-  "x": -1759,  "y": 871,
-  "width": 11, "height": 9
+  "brtest": {
+    "name": "brtest.png",
+    "x": -1759,
+    "y": 871,
+    "width": 11,
+    "height": 9
+  }
 }

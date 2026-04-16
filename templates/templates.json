@@ -1,12 +1,12 @@
 {
   "comment": "default public file",
 
-  "pztest": {
-    "name": "pztest.png",
-    "x": -1618,
-    "y": 872,
-    "width": 15,
-    "height": 15
+  "voidpz": {
+    "name": "Voidpz.png",
+    "x": -449,
+    "y": -449,
+    "width": 1312,
+    "height": 888
   },
 
   "brtest": {
